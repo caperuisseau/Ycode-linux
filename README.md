@@ -1,5 +1,6 @@
 # Lcode-linux
 idk why i did this but i tried to do an Xcode from mac to linux (and windows) in python I used a little bit of chatgpt to help but he just help me to code and nothing else.
+<img width="205" height="170" alt="image" src="https://github.com/user-attachments/assets/9352fcc7-2004-4f0e-bc6c-30cab269094e" />
 # How to use it
 you can download the .py and modify it if you want or download the folder linux or windows
 # Linux version
