@@ -10,8 +10,8 @@ it will not have the update at the same time as linux but I will try "same day d
 download Xcode on your appstore
 # what else
 i use pyqt5 and not pyqt6 but i will try
-# why renaming from Ycode to Lcode
-Ycode was already used several times and Lcode (l for linux) wasn't
+# 0.1 Linux version
+its a good IDE for the moment but it will be better later! it can build and run and open a terminal to execute (try you will see)
 # if you found an error 
 go to the Issues tab and tap the new issue button explain how to do the bug and if you are good at python you can try to explain but this is totaly optional!
  
