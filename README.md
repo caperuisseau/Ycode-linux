@@ -16,7 +16,4 @@ i use pyqt5 and not pyqt6 but i will try
 its a good IDE for the moment but it will be better later! it can build and run and open a terminal to execute (try you will see)
 # if you found an error 
 go to the Issues tab and tap the new issue button explain how to do the bug and if you are good at python you can try to explain but this is totaly optional!
- 
-MIT License
 
-Copyright (c) 2025 Clément Coutant
