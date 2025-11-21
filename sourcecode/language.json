@@ -9,7 +9,11 @@
     "open_file": "Ouvrir un fichier",
     "save_file": "Enregistrer le fichier",
     "change_language": "Changer la langue",
-    "select_language": "Sélectionner la langue"
+    "select_language": "Sélectionner la langue",
+    "undo": "Annuler",
+    "redo": "Refaire",
+    "find": "Rechercher",
+    "replace": "Remplacer"
   },
   "en": {
     "name": "English",
@@ -21,7 +25,11 @@
     "open_file": "Open File",
     "save_file": "Save File",
     "change_language": "Change Language",
-    "select_language": "Select Language"
+    "select_language": "Select Language",
+    "undo": "Undo",
+    "redo": "Redo",
+    "find": "Find",
+    "replace": "Replace"
   },
   "de": {
     "name": "Deutsch",
@@ -33,7 +41,11 @@
     "open_file": "Datei öffnen",
     "save_file": "Datei speichern",
     "change_language": "Sprache ändern",
-    "select_language": "Sprache auswählen"
+    "select_language": "Sprache auswählen",
+    "undo": "Rückgängig",
+    "redo": "Wiederholen",
+    "find": "Suchen",
+    "replace": "Ersetzen"
   },
   "es": {
     "name": "Español",
@@ -45,7 +57,11 @@
     "open_file": "Abrir archivo",
     "save_file": "Guardar archivo",
     "change_language": "Cambiar idioma",
-    "select_language": "Seleccionar idioma"
+    "select_language": "Seleccionar idioma",
+    "undo": "Deshacer",
+    "redo": "Rehacer",
+    "find": "Buscar",
+    "replace": "Reemplazar"
   },
   "it": {
     "name": "Italiano",
@@ -57,7 +73,11 @@
     "open_file": "Apri file",
     "save_file": "Salva file",
     "change_language": "Cambia lingua",
-    "select_language": "Seleziona lingua"
+    "select_language": "Seleziona lingua",
+    "undo": "Annulla",
+    "redo": "Ripeti",
+    "find": "Trova",
+    "replace": "Sostituisci"
   },
   "pt": {
     "name": "Português",
@@ -69,7 +89,11 @@
     "open_file": "Abrir arquivo",
     "save_file": "Salvar arquivo",
     "change_language": "Mudar idioma",
-    "select_language": "Selecionar idioma"
+    "select_language": "Selecionar idioma",
+    "undo": "Desfazer",
+    "redo": "Refazer",
+    "find": "Procurar",
+    "replace": "Substituir"
   },
   "nl": {
     "name": "Nederlands",
@@ -81,7 +105,11 @@
     "open_file": "Bestand openen",
     "save_file": "Bestand opslaan",
     "change_language": "Taal wijzigen",
-    "select_language": "Taal selecteren"
+    "select_language": "Taal selecteren",
+    "undo": "Ongedaan maken",
+    "redo": "Opnieuw",
+    "find": "Zoeken",
+    "replace": "Vervangen"
   },
   "pl": {
     "name": "Polski",
@@ -93,7 +121,11 @@
     "open_file": "Otwórz plik",
     "save_file": "Zapisz plik",
     "change_language": "Zmień język",
-    "select_language": "Wybierz język"
+    "select_language": "Wybierz język",
+    "undo": "Cofnij",
+    "redo": "Ponów",
+    "find": "Znajdź",
+    "replace": "Zamień"
   },
   "sv": {
     "name": "Svenska",
@@ -105,7 +137,11 @@
     "open_file": "Öppna fil",
     "save_file": "Spara fil",
     "change_language": "Byt språk",
-    "select_language": "Välj språk"
+    "select_language": "Välj språk",
+    "undo": "Ångra",
+    "redo": "Gör om",
+    "find": "Sök",
+    "replace": "Ersätt"
   },
   "no": {
     "name": "Norsk",
@@ -117,7 +153,11 @@
     "open_file": "Åpne fil",
     "save_file": "Lagre fil",
     "change_language": "Bytt språk",
-    "select_language": "Velg språk"
+    "select_language": "Velg språk",
+    "undo": "Angre",
+    "redo": "Gjør om",
+    "find": "Søk",
+    "replace": "Erstatt"
   },
   "da": {
     "name": "Dansk",
@@ -129,7 +169,11 @@
     "open_file": "Åbn fil",
     "save_file": "Gem fil",
     "change_language": "Skift sprog",
-    "select_language": "Vælg sprog"
+    "select_language": "Vælg sprog",
+    "undo": "Fortryd",
+    "redo": "Gentag",
+    "find": "Søg",
+    "replace": "Erstat"
   },
   "fi": {
     "name": "Suomi",
@@ -141,7 +185,11 @@
     "open_file": "Avaa tiedosto",
     "save_file": "Tallenna tiedosto",
     "change_language": "Vaihda kieltä",
-    "select_language": "Valitse kieli"
+    "select_language": "Valitse kieli",
+    "undo": "Kumoa",
+    "redo": "Tee uudelleen",
+    "find": "Etsi",
+    "replace": "Korvaa"
   },
   "cs": {
     "name": "Čeština",
@@ -153,7 +201,11 @@
     "open_file": "Otevřít soubor",
     "save_file": "Uložit soubor",
     "change_language": "Změnit jazyk",
-    "select_language": "Vybrat jazyk"
+    "select_language": "Vybrat jazyk",
+    "undo": "Zpět",
+    "redo": "Znovu",
+    "find": "Najít",
+    "replace": "Nahradit"
   },
   "el": {
     "name": "Ελληνικά",
@@ -165,7 +217,11 @@
     "open_file": "Άνοιγμα αρχείου",
     "save_file": "Αποθήκευση αρχείου",
     "change_language": "Αλλαγή γλώσσας",
-    "select_language": "Επιλογή γλώσσας"
+    "select_language": "Επιλογή γλώσσας",
+    "undo": "Αναίρεση",
+    "redo": "Επανάληψη",
+    "find": "Εύρεση",
+    "replace": "Αντικατάσταση"
   },
   "aa": {
     "name": "poopylanguage",
@@ -177,6 +233,10 @@
     "open_file": "open poop",
     "save_file": "save the poop",
     "change_language": "DO NOT PUSH THIS POOPY BUTTON",
-    "select_language": "PLEASE THINK ABOUT MY POOP"
+    "select_language": "PLEASE THINK ABOUT MY POOP",
+    "undo": "unpoop",
+    "redo": "repoop",
+    "find": "find the poop",
+    "replace": "replace poop"
   }
 }
